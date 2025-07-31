@@ -67,9 +67,9 @@ rajkumar-portfolio/
 
 ## 📬 Contact
 
-- **Email:** [rajkumar@example.com](mailto:rajkumara877290919@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/rajkumara2002](www.linkedin.com/in/rajkumar-anbazhagan-425519297)  
-- **GitHub:** [github.com/rajkumara2002](https://github.com/rajkumara2002)
+- **Email:** [gmail.com](mailto:rajkumara877290919@gmail.com)  
+- **LinkedIn:** [linkedin.com](www.linkedin.com/in/rajkumar-anbazhagan-425519297)  
+- **GitHub:** [github.com](https://github.com/rajkumara2002)
 
 ---
 
